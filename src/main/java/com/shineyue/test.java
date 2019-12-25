@@ -54,5 +54,4 @@ public class test {
         System.out.println("爸:我觉得无聊甚至去了趟厕所。");
         System.out.println("爸：loading......");
     }
-
 }
