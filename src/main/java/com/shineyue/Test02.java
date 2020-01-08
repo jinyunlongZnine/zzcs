@@ -14,14 +14,5 @@ public class Test02 {
         System.out.println("args = " + args);
 
     }
-    @Test
-    public void testSf () {
-        int a = 10;
-        int b = 11;
-        for (int i = 0; i < a; i++) {
-            for (int j = 0; j < (b-a+1); j++) {
 
-            }
-        }
-    }
 }
