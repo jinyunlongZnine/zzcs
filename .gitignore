@@ -3,5 +3,9 @@ target/
 .project
 .classpath
 /bin/
+<<<<<<< HEAD
 .idea/*
 .gitignore
+=======
+.idea/
+>>>>>>> dc051263954385d31a239eae2841078a0213ac6e
