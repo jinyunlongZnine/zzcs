@@ -12,7 +12,7 @@ public class Test02 {
     public static void main(String[] args) {
         System.out.println("--------");
         System.out.println("args = " + args);
-        System.out.println("args hello6= " + args);
+        System.out.println("args xxxhxxxello6= " + args);
 
 
     }
