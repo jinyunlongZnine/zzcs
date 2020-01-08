@@ -1,4 +1,4 @@
-sdfsfdefpackage com.shineyue;
+sdfsfdefsdapackage com.shineyue;
 
 import org.junit.Test;
 
