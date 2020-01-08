@@ -27,8 +27,8 @@
       <file leaf-file-name="Test02.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="319">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -68,9 +68,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/shineyue/file.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/shineyue/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/11.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java" />
       </list>
     </option>
   </component>
@@ -294,7 +294,7 @@
       <workItem from="1577264795585" duration="1088000" />
       <workItem from="1578045027709" duration="1204000" />
       <workItem from="1578278933642" duration="246000" />
-      <workItem from="1578475842488" duration="383000" />
+      <workItem from="1578475842488" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="file commit">
       <created>1577260115331</created>
@@ -328,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5347000" />
+    <option name="totallyTimeSpent" value="5942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -552,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="319">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
