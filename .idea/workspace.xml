@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cc3da48-3353-4ecc-b726-acad8c10e1ab" name="Default" comment="ignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shineyue/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shineyue/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shineyue/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/77.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -397,11 +395,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3778000" />
+    <option name="totallyTimeSpent" value="4065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
